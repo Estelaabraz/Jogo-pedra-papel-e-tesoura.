@@ -1,2 +1,2 @@
-# Jogo desafio pedra, papel ou tesoura.
+# Desafio jodo.
 Atividade Start utilizando JS. 
